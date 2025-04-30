@@ -14,12 +14,12 @@ permalink: /team/
 
 | Photo | Details |
 |-------|---------|
-| ![Juan Miguel Morales González](ID/juanmi.jpg) | **Name:** Juan Miguel Morales González, Associate Professor, Head of Group<br>**Email:** [juan.morales@uma.es](mailto:juan.morales@uma.es)<br>**Website:** [https://juanmi82mg.github.io/](https://juanmi82mg.github.io/)<br>**CV:** [Download CV](CV/juanmi.pdf) |
-| ![Salvador Pineda Morente](ID/salva.jpeg) | **Name:** Salvador Pineda Morente, Associate Professor<br>**Email:** [spineda@uma.es](mailto:spineda@uma.es)<br>**Website:** [https://salvapineda.github.io/](https://salvapineda.github.io/)<br>**CV:** [Download CV](CV/salva.pdf) |
-| ![Maria Asunción Jiménez Cordero](ID/asun.jpg) | **Name:** Maria Asunción Jiménez Cordero, Lecturer, Postdoctoral Researcher<br>**Email:** [asuncionjc@uma.es](mailto:asuncionjc@uma.es)<br>**CV:** [Download CV](CV/asun.pdf) |
-| ![Antonio Elías Fernández](ID/antonio.jpg) | **Name:** Antonio Elías Fernández, Postdoctoral Researcher<br>**Email:** [aelias@uma.es](mailto:aelias@uma.es)<br>**CV:** [Download CV](CV/antonio.pdf) |
-| ![José Martín Gómez de la Varga](ID/jose.jpg) | **Name:** José Martín Gómez de la Varga, PhD Student<br>**Email:** [josegv@uma.es](mailto:josegv@uma.es)<br>**CV:** [Download CV](CV/jose.pdf) |
-| ![Ignacio Repiso](ID/nacho.jpg) | **Name:** Ignacio Repiso, PhD Student<br>**Email:** [irepiso@uma.es](mailto:irepiso@uma.es)<br>**CV:** [Download CV](CV/nacho.pdf) |
+| ![Juan Miguel Morales González](ID/juanmi.jpg){: style="width:100px;height:100px;"} | **Name:** Juan Miguel Morales González, Associate Professor, Head of Group<br>**Email:** [juan.morales@uma.es](mailto:juan.morales@uma.es)<br>**Website:** [https://juanmi82mg.github.io/](https://juanmi82mg.github.io/)<br>**CV:** [Download CV](CV/juanmi.pdf) |
+| ![Salvador Pineda Morente](ID/salva.jpeg){: style="width:100px;height:100px;"} | **Name:** Salvador Pineda Morente, Associate Professor<br>**Email:** [spineda@uma.es](mailto:spineda@uma.es)<br>**Website:** [https://salvapineda.github.io/](https://salvapineda.github.io/)<br>**CV:** [Download CV](CV/salva.pdf) |
+| ![Maria Asunción Jiménez Cordero](ID/asun.jpg){: style="width:100px;height:100px;"} | **Name:** Maria Asunción Jiménez Cordero, Lecturer, Postdoctoral Researcher<br>**Email:** [asuncionjc@uma.es](mailto:asuncionjc@uma.es)<br>**CV:** [Download CV](CV/asun.pdf) |
+| ![Antonio Elías Fernández](ID/antonio.jpg){: style="width:100px;height:100px;"} | **Name:** Antonio Elías Fernández, Postdoctoral Researcher<br>**Email:** [aelias@uma.es](mailto:aelias@uma.es)<br>**CV:** [Download CV](CV/antonio.pdf) |
+| ![José Martín Gómez de la Varga](ID/jose.jpg){: style="width:100px;height:100px;"} | **Name:** José Martín Gómez de la Varga, PhD Student<br>**Email:** [josegv@uma.es](mailto:josegv@uma.es)<br>**CV:** [Download CV](CV/jose.pdf) |
+| ![Ignacio Repiso](ID/nacho.jpg){: style="width:100px;height:100px;"} | **Name:** Ignacio Repiso, PhD Student<br>**Email:** [irepiso@uma.es](mailto:irepiso@uma.es)<br>**CV:** [Download CV](CV/nacho.pdf) |
 
 ### Past Members and Visitors
 
