@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/styles.css" | relative_url }}">
+</head>
+<body>
+    <header>
+        <h1>OASYS Research Group</h1>
+    </header>
+    <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/members.html' | relative_url }}">Team</a>
+        <a href="{{ '/news.html' | relative_url }}">News</a>
+        <a href="{{ '/projects.html' | relative_url }}">Projects</a>
+        <a href="{{ '/publications.html' | relative_url }}">Publications</a>
+        <a href="{{ '/conferences.html' | relative_url }}">Conferences</a>
+        <a href="{{ '/social.html' | relative_url }}">Social</a>
+        <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+    </nav>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        <p>&copy; 2025 OASYS Research Group</p>
+    </footer>
+</body>
+</html>
