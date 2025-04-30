@@ -17,6 +17,9 @@ permalink: /team/
 # PAST MEMBERS 
 
 |-------|---------|
+| ![Concepción Domínguez Sánchez](/id/conchi.jpg){: style="width:150px;"} | **Name:** Concepción Domínguez Sánchez, Postdoctoral Researcher<br>**Email:** [concepcion.dominguez@um.es](mailto:concepcion.dominguez@um.es)<br>**CV:** [Download CV](cv/concepcion.pdf) |
+| ![Adrián Esteban Pérez](/id/adrian.jpg){: style="width:150px;"} | **Name:** Adrián Esteban Pérez, Postdoctoral Researcher<br>**Email:** [adrianesteban@uma.es](mailto:adrianesteban@uma.es)<br>**CV:** [Download CV](cv/adrian.pdf) |
+| ![Álvaro Porras Cabrera](/id/alvaro.jpg){: style="width:150px;"} | **Name:** Álvaro Porras Cabrera, Consultant<br>**Email:** [alvaroporras19@gmail.com](mailto:alvaroporras19@gmail.com)<br>**CV:** [Download CV](cv/alvaro.pdf) |
 | ![Ricardo Gázquez Torres](/id/ricardo2.jpg){: style="width:150px;"} | **Name:** Ricardo Gázquez Torres, Lecturer @ UC3M, Postdoctoral Researcher<br>**Email:** [rgazquez@uma.es](mailto:rgazquez@uma.es)<br>**CV:** [Download CV](cv/ricardo.pdf) |
 | ![Miguel Ángel Muñoz Díaz](/id/miguel.png){: style="width:150px;"} | **Name:** Miguel Ángel Muñoz Díaz, Mathematical Optimization Consultant<br>**Email:** [miguelangeljmd@uma.es](mailto:miguelangeljmd@uma.es)<br>**CV:** [Download CV](cv/miguel.pdf) |
 | ![Lisa Huckfield](/id/lisa.jpg){: style="width:150px;"} | **Name:** Lisa Huckfield, Research Support Assistant<br>**Email:** [lisasuzanne1@gmail.com](mailto:lisasuzanne1@gmail.com) |
