@@ -116,6 +116,10 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
   <p>November 2022 - OASYS hosted the DYCON Seminar: Leveraging Optimal Transport for Decision Making. The seminar explored how data can be used to solve complex optimization problems and formulate mathematical models for confident decision-making. The program can be checked <a href="https://drive.google.com/uc?export=download&id=1naUvVVFgu6iGCkhx3JU-Hp6x6YmFyocL">here</a>.</p>
 </div>
 
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/id/conchi.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>November 2022 - Congratulations to Concepción Domínguez for being among the 12 awardees announced for the YoungWomen4OR 2022 award by The Association of European Operational Research Societies (EURO) WISDOM Women in Science Doing Operational Research and Management. This prestigious recognition highlights her contributions to the field of Operational Research. Well done, Conchi!</p>
+</div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2022_flex.jpeg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
@@ -155,6 +159,11 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 <div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2022_asun.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>April 2022 - Asunción Jiménez-Cordero attended the ceremony alongside awardees Marina Leal and Eduardo García to receive the Outstanding Doctoral Thesis award from the University of Seville. Asunción's PhD, undertaken at IMUS and supervised by Rafael Blanquero and Emilio Carrizosa, was recognized as one of the outstanding theses of 2019. Congratulations, Asunción!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/id/miguel.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>April 2022 - Congratulations to M. A. Muñoz, S. Pineda, and J. M. Morales for receiving the Best Paper Award in Omega for their work titled "A Bilevel Framework for Decision-making Under Uncertainty with Contextual Information." The paper, published in Omega (vol. 108, pp. 102575), represents a significant contribution to decision-making under uncertainty. Well done!</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
@@ -200,6 +209,11 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 <div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2020_seminar.jpeg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>January 2020 - OASYS organized a seminar on bilevel optimization sponsored by the #FlexAnalytics project funded by <a href="https://ec.europa.eu/programmes/horizon2020/">@EU_H2020</a>. The seminar brought together experts to discuss advancements in bilevel optimization techniques and their applications.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/id/alvaro.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>September 2019 - Congratulations to Á. Porras, R. Fernández-Blanco, J.M. Morales, and S. Pineda for receiving the Best Paper Award at the 2nd International Conference on Smart Energy Systems and Technologies (SEST2019) held in Porto, Portugal. Their paper, titled "Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty," was recognized for its outstanding contribution to the field. Well done!</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
