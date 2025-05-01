@@ -57,6 +57,11 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2024_elea.jpeg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>February 2024 - OASYS is pleased to welcome Eléa Prat, a PhD student from the Technical University of Denmark (DTU), who will be visiting us from February to June 2024. Eléa will collaborate with the team on innovative research in energy storage systems optimization. Welcome, Eléa!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2024_estibaliz.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>February 2024 - OASYS is delighted to welcome Estibalitz Ruiz Irusta, who will be visiting the group until July 2024. Estibalitz will collaborate with the team on various research projects, contributing her expertise in energy systems and optimization. Welcome, Estibalitz!</p>
 </div>
@@ -82,8 +87,18 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2023_robert.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>September 2023 - The OASYS Research Group welcomes Robert Gaugl for a brief visit. Robert, a Project Assistant at TU Graz, specializes in renewable energy, electricity storage, and sustainable energy systems. We look forward to collaborating with him!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2023_ifors.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>July 2023 - Summer's here and that can only mean one thing for OASYS - to get out and about sharing the results of their hard work at prestigious international conferences. Salva, Concepción, Juan Miguel, and Álvaro attended the IFORS conference in Chile. While we swelter in Málaga's heat, our colleagues are all wrapped up warm against the Chilean cold.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2023_sabadell.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>July 2023 - Dr. Juan Miguel Morales, leader of the Optimization and Analytics for Sustainable Energy Systems (OASYS) group at the University of Málaga, has been recognized with the VII Fundación Banco Sabadell Award for Science and Engineering. The award highlights his outstanding contributions to the development of computational tools for renewable and distributed energy resources, placing him at the forefront of his field both academically and socio-economically. Watch the announcement video on <a href="https://www.youtube.com/watch?v=YIfA0Zwz4Yg">YouTube</a>.</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
@@ -92,9 +107,15 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="/news/2022_rai.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
-  <p>January 2022 - Juan Miguel received the prestigious Agustín de Betancourt y Molina Young Investigator Award from The Royal Academy of Engineers (RAI). Congratulations, Juan Miguel! Watch the <a href="https://www.youtube.com/watch?v=o4fAt4bSfSQ&t=981s">award ceremony</a>.</p>
+  <img src="/news/2023_adrian_miguel.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>January 2023 - Congratulations to Adrián Esteban Pérez and Miguel Ángel Muñoz Díaz for attending their PhD graduation ceremony at the University of Málaga. Their hard work and dedication have been an inspiration to the OASYS team. Well done, Adrián and Miguel Ángel!</p>
 </div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2022_dycon.jpeg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>November 2022 - OASYS hosted the DYCON Seminar: Leveraging Optimal Transport for Decision Making. The seminar explored how data can be used to solve complex optimization problems and formulate mathematical models for confident decision-making. The program can be checked <a href="https://drive.google.com/uc?export=download&id=1naUvVVFgu6iGCkhx3JU-Hp6x6YmFyocL">here</a>.</p>
+</div>
+
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2022_flex.jpeg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
@@ -112,18 +133,13 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="/news/2022_dycon.jpeg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
-  <p>November 2022 - OASYS hosted the DYCON Seminar: Leveraging Optimal Transport for Decision Making. The seminar explored how data can be used to solve complex optimization problems and formulate mathematical models for confident decision-making. The program can be checked <a href="https://drive.google.com/uc?export=download&id=1naUvVVFgu6iGCkhx3JU-Hp6x6YmFyocL">here</a>.</p>
+  <img src="/news/2022_akylas.jpeg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>September 2022 - OASYS is pleased to welcome Akylas Stratigakos, a visiting researcher from Mines Paris Tech. Akylas will be collaborating with the group from September 2022 to January 2023 on machine learning applications in power systems. Welcome, Akylas!</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="/news/2022_pauline.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
-  <p>May 2022 - The OASYS Research Group welcomed Pauline Kergus as an invited speaker at a seminar held in conjunction with the ERC project FlexAnalytics.</p>
-</div>
-
-<div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="/news/2022_seio_bbva.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
-  <p>February 2022 - OASYS group founders Salvador Pineda and Juan Miguel Morales attended the Statistics & Operations Research (SEIO)-BBVA Foundation Awards Ceremony on February 16th in Madrid. They received the award for Best Applied Contribution to Operations Research, 2020. Congratulations to Salvador and Juan Miguel! Watch their interviews on <a href="https://www.youtube.com/watch?v=Is61-Pykmq8">YouTube</a> and <a href="https://www.youtube.com/watch?v=X_x5zguYOoU">YouTube</a>.</p>
+  <img src="/news/2022_ecso.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>July 2022 - Members of OASYS attended the European Conference on Stochastic Optimization (ECSO). The conference provided a platform to discuss the latest advancements in stochastic optimization and its applications in various fields.</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
@@ -132,8 +148,33 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="/news/2022_ecso.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
-  <p>July 2022 - Members of OASYS attended the European Conference on Stochastic Optimization (ECSO). The conference provided a platform to discuss the latest advancements in stochastic optimization and its applications in various fields.</p>
+  <img src="/news/2022_pauline.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>May 2022 - The OASYS Research Group welcomed Pauline Kergus as an invited speaker at a seminar held in conjunction with the ERC project FlexAnalytics.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2022_asun.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>April 2022 - Asunción Jiménez-Cordero attended the ceremony alongside awardees Marina Leal and Eduardo García to receive the Outstanding Doctoral Thesis award from the University of Seville. Asunción's PhD, undertaken at IMUS and supervised by Rafael Blanquero and Emilio Carrizosa, was recognized as one of the outstanding theses of 2019. Congratulations, Asunción!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2022_asun2.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>March 2022 - Asunción Jiménez-Cordero was recognized as one of the 12 #YoungWomen4OR awardees for this year by WISDOM. This prestigious award highlights her contributions to Operations Research. Congratulations, Asunción! #WomeninSTEM #WomeninOR</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2022_seio_bbva.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>February 2022 - OASYS group founders Salvador Pineda and Juan Miguel Morales attended the Statistics & Operations Research (SEIO)-BBVA Foundation Awards Ceremony on February 16th in Madrid. They received the award for Best Applied Contribution to Operations Research, 2020. Congratulations to Salvador and Juan Miguel! Watch their interviews on <a href="https://www.youtube.com/watch?v=Is61-Pykmq8">YouTube</a> and <a href="https://www.youtube.com/watch?v=X_x5zguYOoU">YouTube</a>.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2022_rai.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>January 2022 - Juan Miguel received the prestigious Agustín de Betancourt y Molina Young Investigator Award from The Royal Academy of Engineers (RAI). Congratulations, Juan Miguel! Watch the <a href="https://www.youtube.com/watch?v=o4fAt4bSfSQ&t=981s">award ceremony</a>.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2021_juanmi.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>June 2021 - Juan M. Morales, head of the OASYS research group, was a plenary speaker at EURO 2021 in Athens. His presentation on "Data-driven power systems" was a highlight of the conference. Congratulations, Juanmi!</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
@@ -154,4 +195,24 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 <div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2020_seio.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>September 2020 - Congratulations! Juan Miguel Morales and Salvador Pineda were awarded the SEIO prize for Best Contribution to Operations Research. They have been recognized for their work, which significantly reduces the computational burden in complex energy systems planning. A well-deserved prize. Congratulations to Juan Miguel and Salvador! Watch the video <a href="https://www.youtube.com/watch?v=mZc5oNpae7s">here</a>.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2020_seminar.jpeg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>January 2020 - OASYS organized a seminar on bilevel optimization sponsored by the #FlexAnalytics project funded by <a href="https://ec.europa.eu/programmes/horizon2020/">@EU_H2020</a>. The seminar brought together experts to discuss advancements in bilevel optimization techniques and their applications.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2019_juanmi.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>January 2019 - Juan Miguel Morales was one of the awardees at the "Becas para Másteres y Ayudas a la Investigación" ceremony organized by Fundación Iberdrola. The event, presided over by Her Majesty the Queen, took place at the Iberdrola Building in Madrid. These grants support the training of high-level young professionals in energy-related fields, focusing on renewable energy, biodiversity improvement, and energy system efficiency. Congratulations, Juan Miguel!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2018_mirna.jpeg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>September 2018 - OASYS was pleased to welcome Mirna Gržanić Antić, a PhD candidate from the University of Zagreb, as a visiting researcher. Mirna collaborated with the group from September to December 2018, focusing on research related to electricity communities. Welcome, Mirna!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2018_start.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>February 2028 - The OASYS Research Group was officially launched under the leadership of Juan Miguel Morales and Salvador Pineda. The founding team included two PhD students, Adrián Esteban Pérez and Miguel Ángel Muñoz Díaz, as well as postdoctoral researcher Ricardo Fernández-Blanco. Together, they embarked on a mission to develop innovative mathematical methods for sustainable energy systems. Congratulations to the founding team!</p>
 </div>

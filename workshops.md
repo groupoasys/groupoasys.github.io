@@ -41,3 +41,10 @@ The FlexAnalytics Symposium brought together leading experts in data-driven deci
 - Juan Antonio Cuesta Albertos: *How far is a distribution to stochastically dominate another one?*  
 - Adrián Esteban Pérez: *Theory and applications of Distributionally Robust Optimization with side data*  
 - Miguel Ángel Muñoz Díaz: *Prescriptive Analytics in Electricity Markets*
+
+## FlexAnalytics Workshop on Bilevel Optimization, 16th - 17th of January, 2020. ([program](https://drive.usercontent.google.com/u/0/uc?id=1vIZxG046Ujp7NTaW3G_hx9jMGpK0pHst&export=download))
+
+The FlexAnalytics Workshop on Bilevel Optimization focused on the theory and applications of bilevel optimization, a challenging yet powerful framework for modeling hierarchical decision-making problems. Sponsored by #FlexAnalytics, the event brought together researchers and practitioners to discuss recent advancements and real-world applications of bilevel optimization. Below, we include the list of speakers and talks.
+
+- Victor Bucarey: *Real-world applications, models and algorithms for Stackelberg Security Games*  
+- Asunción Jiménez-Cordero: *A min-max approach to feature selection for nonlinear SVM classification*
