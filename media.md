@@ -5,8 +5,9 @@ permalink: /media/
 ---
 # IN THE MEDIA
 
-![In the media](/oasys/inthemedia.png)
-
+<div style="text-align: center;">
+    <img src="/oasys/inthemedia.png" alt="In the media">
+</div>
 
 -   18/04/24 Diario Sur. Report on FGUMA awards ([link](https://www.diariosur.es/universidad/investigacion-mejores-manos-20240417183011-nt.html?ref=https%3A%2F%2Fwww.diariosur.es%2Funiversidad%2Finvestigacion-mejores-manos-20240417183011-nt.html))
 -   17/04/24 Fundación FGUMA. Adrian Esteban wins the ‘Margarita Salas Falgueras’ award ([link](https://www.uma.es/sala-de-prensa/noticias/los-xiii-premios-de-investigacion-de-la-universidad-y-la-fguma-reconocen-el-talento-de-seis-jovenes-cientificos/))

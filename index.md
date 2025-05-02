@@ -167,11 +167,6 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="/news/2022_asun2.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
-  <p>March 2022 - Asunción Jiménez-Cordero was recognized as one of the 12 #YoungWomen4OR awardees for this year by WISDOM. This prestigious award highlights her contributions to Operations Research. Congratulations, Asunción! #WomeninSTEM #WomeninOR</p>
-</div>
-
-<div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2022_seio_bbva.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>February 2022 - OASYS group founders Salvador Pineda and Juan Miguel Morales attended the Statistics & Operations Research (SEIO)-BBVA Foundation Awards Ceremony on February 16th in Madrid. They received the award for Best Applied Contribution to Operations Research, 2020. Congratulations to Salvador and Juan Miguel! Watch their interviews on <a href="https://www.youtube.com/watch?v=Is61-Pykmq8">YouTube</a> and <a href="https://www.youtube.com/watch?v=X_x5zguYOoU">YouTube</a>.</p>
 </div>
@@ -179,6 +174,11 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 <div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2022_rai.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>January 2022 - Juan Miguel received the prestigious Agustín de Betancourt y Molina Young Investigator Award from The Royal Academy of Engineers (RAI). Congratulations, Juan Miguel! Watch the <a href="https://www.youtube.com/watch?v=o4fAt4bSfSQ&t=981s">award ceremony</a>.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2021_asun.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>October 2021 - Asunción Jiménez-Cordero was recognized as one of the 12 #YoungWomen4OR awardees for this year by WISDOM. This prestigious award highlights her contributions to Operations Research. Congratulations, Asunción! #WomeninSTEM #WomeninOR You can find the full list of awardees <a href="https://drive.google.com/file/d/17cFL6Mfu9juNTaexQbHU0x8_NSATqaPX/view">here</a>.</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
@@ -228,5 +228,5 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2018_start.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
-  <p>February 2028 - The OASYS Research Group was officially launched under the leadership of Juan Miguel Morales and Salvador Pineda. The founding team included two PhD students, Adrián Esteban Pérez and Miguel Ángel Muñoz Díaz, as well as postdoctoral researcher Ricardo Fernández-Blanco. Together, they embarked on a mission to develop innovative mathematical methods for sustainable energy systems. Congratulations to the founding team!</p>
+  <p>February 2018 - The OASYS Research Group was officially launched under the leadership of Juan Miguel Morales and Salvador Pineda. The founding team included two PhD students, Adrián Esteban Pérez and Miguel Ángel Muñoz Díaz, as well as postdoctoral researcher Ricardo Fernández-Blanco. Together, they embarked on a mission to develop innovative mathematical methods for sustainable energy systems. Congratulations to the founding team!</p>
 </div>
