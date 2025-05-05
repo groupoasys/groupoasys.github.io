@@ -10,6 +10,10 @@ This page lists all the repositories where the OASYS group shares data and resul
 
 <!-- Add the list of repositories below -->
 
+## TightBigM_OTS ([GitHub](https://github.com/groupoasys/TightBigM_OTS))
+
+This repository provides datasets and code for the research titled [*Tight big-Ms for optimal transmission switching*](https://www.sciencedirect.com/science/article/pii/S0378779624005066). It includes network data for the 118-bus system and node demand data for 100 instances, detailing the switchable status of transmission lines.
+
 ## RPP_VNS_data ([GitHub](https://github.com/groupoasys/RPP_VNS_data))
 
 This repository provides datasets used in the paper [*An enhanced heuristic framework for solving the Rank Pricing Problem*](https://www.sciencedirect.com/science/article/pii/S0957417425007444?dgcid=coauthor) by A. Jiménez-Cordero, S. Pineda, and J.M. Morales. Developed by OASYS group members, it includes data for computational experiments to demonstrate the efficiency of the proposed framework.
