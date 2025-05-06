@@ -12,15 +12,15 @@ This page lists all the repositories where the OASYS group shares data and resul
 
 ## BeyondNeuralFog ([GitHub](https://github.com/groupoasys/BeyondNeuralFog))
 
-This repository provides datasets and code for the research titled [*Beyond the Neural Fog: Interpretable Learning for AC Optimal Power Flow*](https://doi.org/10.7799/1827404). It includes MATPOWER files for IEEE power systems (14-bus, 30-bus, 57-bus, and 118-bus) and datasets sourced from the OPFLearnData project. The data enables reproducibility and further research in AC optimal power flow.
+This repository provides datasets for the research titled [*Beyond the Neural Fog: Interpretable Learning for AC Optimal Power Flow*](https://doi.org/10.7799/1827404). It includes MATPOWER files for IEEE power systems (14-bus, 30-bus, 57-bus, and 118-bus) and datasets sourced from the OPFLearnData project. The data enables reproducibility and further research in AC optimal power flow.
 
 ## LearningStateEstimation ([GitHub](https://github.com/groupoasys/LearningStateEstimation))
 
-This repository provides datasets and code for the research titled [*Learning-based state estimation in distribution systems with limited real-time measurements*](https://doi.org/10.1016/j.epsr.2023.108517). It includes voltage magnitude and angle data for 33-bus and 136-bus systems under various conditions.
+This repository provides datasets for the research titled [*Learning-based state estimation in distribution systems with limited real-time measurements*](https://doi.org/10.1016/j.epsr.2023.108517). It includes voltage magnitude and angle data for 33-bus and 136-bus systems under various conditions.
 
 ## TightBigM_OTS ([GitHub](https://github.com/groupoasys/TightBigM_OTS))
 
-This repository provides datasets and code for the research titled [*Tight big-Ms for optimal transmission switching*](https://www.sciencedirect.com/science/article/pii/S0378779624005066). It includes network data for the 118-bus system and node demand data for 100 instances, detailing the switchable status of transmission lines.
+This repository provides datasets for the research titled [*Tight big-Ms for optimal transmission switching*](https://www.sciencedirect.com/science/article/pii/S0378779624005066). It includes network data for the 118-bus system and node demand data for 100 instances, detailing the switchable status of transmission lines.
 
 ## RPP_VNS_data ([GitHub](https://github.com/groupoasys/RPP_VNS_data))
 
