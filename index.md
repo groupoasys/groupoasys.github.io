@@ -22,6 +22,11 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 # NEWS
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2025_seio.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>June 2025 - Three OASYS members attended the XLI National Congress of Statistics and Operations Research at the University of Lleida. It was a great opportunity to meet with some former members of OASYS and share recent advances in the field.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2025_nacho.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>March 2025 - OASYS is excited to welcome Ignacio Repiso as a new PhD student in the group. Ignacio holds a bachelor's degree in Mechanical Engineering and Industrial Design from the University of Málaga and a master's degree in Applied Mathematics from the University Carlos III. Welcome to the team, Ignacio!</p>
 </div>

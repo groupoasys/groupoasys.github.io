@@ -6,6 +6,13 @@ permalink: /conferences/
 
 # CONFERENCES
 
+## 2025
+
+- A. Jiménez-Cordero, S. Pineda, J. M. Morales González, "Solving the Rank Pricing Problem using a heuristic approach", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation]())
+- S. Pineda, M. Aguilar-Moreno, J. M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation]())
+- J. M. Morales González, E. Ruiz Irusta, "Distributionally Fair Peer-to-Peer Electricity Trading", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation]())
+- M. Fischetti, E. Carrizosa, R. Haaker, J. M. Morales González, "Machine Learning plus Operations Research for optimal counterfactual control in wind turbines", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation]())
+
 ## 2024
 
 -   Daniel Kuhn, Yves Rychener, Adrian Esteban Perez, Juan M. Morales, "Wasserstein Distributionally Robust Optimization with Heterogeneous Data Sources" in ISMP 2024, Montreal, Canada, July 21-26, 2024
