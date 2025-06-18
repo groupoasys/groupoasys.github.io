@@ -22,7 +22,7 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 # NEWS
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="/news/2025_seio.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <img src="/news/2025_seio.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>June 2025 - Three OASYS members attended the XLI National Congress of Statistics and Operations Research at the University of Lleida. It was a great opportunity to meet with some former members of OASYS and share recent advances in the field.</p>
 </div>
 
