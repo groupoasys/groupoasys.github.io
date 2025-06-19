@@ -8,10 +8,10 @@ permalink: /conferences/
 
 ## 2025
 
-- A. Jiménez-Cordero, S. Pineda, J. M. Morales González, "Solving the Rank Pricing Problem using a heuristic approach", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation]())
-- S. Pineda, M. Aguilar-Moreno, J. M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation]())
-- J. M. Morales González, E. Ruiz Irusta, "Distributionally Fair Peer-to-Peer Electricity Trading", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation]())
-- M. Fischetti, E. Carrizosa, R. Haaker, J. M. Morales González, "Machine Learning plus Operations Research for optimal counterfactual control in wind turbines", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation]())
+- A. Jiménez-Cordero, S. Pineda, J. M. Morales González, "Solving the Rank Pricing Problem using a heuristic approach", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation](https://drive.google.com/file/d/1uKLO0rESl8drsD_6OsXuE3qF6FiIGMUn/view?usp=drive_link))
+- S. Pineda, M. Aguilar-Moreno, J. M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation](https://drive.google.com/file/d/1TBU3hTOPppWGJksdOpiCcbXJvO4m-Z-P/view?usp=drive_link))
+- J. M. Morales González, E. Ruiz Irusta, "Distributionally Fair Peer-to-Peer Electricity Trading", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation](https://drive.google.com/file/d/14kZKBL8uSMW7Jl2cfGm58_vuDGYUVnzd/view?usp=drive_link))
+- M. Fischetti, E. Carrizosa, R. Haaker, J. M. Morales González, "Machine Learning plus Operations Research for optimal counterfactual control in wind turbines", SEIO 2025, Lleida, Spain, June 10-13, 2025 
 
 ## 2024
 
