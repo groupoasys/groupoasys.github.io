@@ -7,6 +7,7 @@ permalink: /publications/
 
 ## Working papers
 
+-   J. M. Morales, "Linear and Second-order-cone Valid Inequalities for Problems with Storage" ([preprint](https://arxiv.org/pdf/2506.21470))
 -   J. Tao, R. Li, S. Pineda, "Unit Commitment with Cost-Oriented Temporal Resolution" ([preprint](https://arxiv.org/abs/2506.02707)) 
 -   M. Aguilar-Moreno, S. Pineda, J.M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem" ([preprint](https://arxiv.org/abs/2502.10333))
 -   E. Prat, R. M. Lusby, J.M. Morales, S. Pineda, P. Pinson , "How long is long enough? Finite-horizon approximation of energy storage scheduling problems" ([preprint](https://arxiv.org/abs/2411.17463))
