@@ -7,6 +7,7 @@ permalink: /publications/
 
 ## Working papers
 
+- S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" ([preprint](https://arxiv.org/abs/2507.16496))
 - J. G. De la Varga, J. M. Morales, S. Pineda, "Robust Contextual State Estimation with Limited Measurement Data" ([preprint](https://arxiv.org/abs/2507.08767))
 -   J. M. Morales, "Linear and Second-order-cone Valid Inequalities for Problems with Storage" ([preprint](https://arxiv.org/pdf/2506.21470))
 -   J. Tao, R. Li, S. Pineda, "Unit Commitment with Cost-Oriented Temporal Resolution" ([preprint](https://arxiv.org/abs/2506.02707)) 
