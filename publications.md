@@ -7,6 +7,9 @@ permalink: /publications/
 
 ## Working papers
 
+-   Y. Rychener, A. Esteban-Perez, J.M. Morales, D. Kuhn, "Wasserstein Distributionally Robust Optimization with Heterogeneous Data Sources" ([preprint](https://arxiv.org/abs/2407.13582))
+-   E. Ruiz Irusta, J.M. Morales, "Distributionally Fair Peer-to-Peer Electricity Trading" ([preprint](https://arxiv.org/abs/2501.09713))
+-   E. Carrizosa, M. Fischetti, R. Haaker, J.M. Morales, "Counterfactual optimization for fault prevention in complex wind energy systems" ([preprint](https://arxiv.org/abs/2507.08849))
 - S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" ([preprint](https://arxiv.org/abs/2507.16496))
 - J. G. De la Varga, J. M. Morales, S. Pineda, "Robust Contextual State Estimation with Limited Measurement Data" ([preprint](https://arxiv.org/abs/2507.08767))
 -   J. M. Morales, "Linear and Second-order-cone Valid Inequalities for Problems with Storage" ([preprint](https://arxiv.org/pdf/2506.21470))
