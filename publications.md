@@ -13,11 +13,11 @@ permalink: /publications/
 -   J. Tao, R. Li, S. Pineda, "Unit Commitment with Cost-Oriented Temporal Resolution" ([preprint](https://arxiv.org/abs/2506.02707)) 
 -   M. Aguilar-Moreno, S. Pineda, J.M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem" ([preprint](https://arxiv.org/abs/2502.10333))
 -   E. Prat, R. M. Lusby, J.M. Morales, S. Pineda, P. Pinson , "How long is long enough? Finite-horizon approximation of energy storage scheduling problems" ([preprint](https://arxiv.org/abs/2411.17463))
--   R. Li, H. Zhang, M. Sun, C. Wan, S. Pineda, G. Kariniotakis, T. Fei, W. Xu, "Decision-Focused Learning for Future Power System Decision-Making under Uncertainty" ([preprint](https://arxiv.org/abs/2401.03680))
 -   A. Elías, R. Jiménez, A. M. Paganoni and L. Sangalli, A depth for censured functional data. (working paper)
 
 ## 2025
 
+-   R. Li, H. Zhang, M. Sun, C. Wan, S. Pineda, G. Kariniotakis, T. Fei, W. Xu, "Decision-Focused Learning for Future Power System Decision-Making under Uncertainty". IEEE Transactions on Power Systems, 2025 ([published](https://ieeexplore.ieee.org/document/11122623), [preprint](https://arxiv.org/abs/2401.03680))
 -   A. Jiménez-Cordero, S. Pineda, J.M. Morales, An enhanced heuristic framework for solving the Rank Pricing Problem. Expert Systems with Applications, Volume 276, 127122, 2025 ([published](https://www.sciencedirect.com/science/article/pii/S0957417425007444?dgcid=coauthor), [preprint](https://arxiv.org/abs/2405.15702))
 -   S. Pineda, J. Pérez-Ruiz, J.M. Morales, Beyond the Neural Fog: Interpretable Learning for AC Optimal Power Flow.IEEE Transactions on Power Systems ([published](https://ieeexplore.ieee.org/document/10607934), [preprint](https://arxiv.org/pdf/2408.05228))
 -   Á. Porras, Line Roald, J.M. Morales and S. Pineda (2025), Unifying Chance-Constrained and Robust Optimal Power Flow for Resilient Network Operations. IEEE Transactions on Control of Network Systems, 12 (1): 1052:1061. ([published](https://ieeexplore.ieee.org/document/10607934), [preprint](https://arxiv.org/abs/2303.05412))
