@@ -10,6 +10,18 @@ This page lists all the repositories where the OASYS group shares data and resul
 
 <!-- Add the list of repositories below -->
 
+## SweetSpotBT ([GitHub](https://github.com/groupoasys/SweetSpotBT))
+
+This repository contains data and files for the work *The Sweet Spot of Bound Tightening for Topology Optimization*, including the IEEE-118 test system data, demand profiles, and the initial large enough constants used in the study.
+
+## storage_valid_inequalities ([GitHub](https://github.com/groupoasys/storage_valid_inequalities))
+
+This repository provides data sets and code for the research titled [*Linear and Second-order-cone Valid Inequalities for Problems with Storage*](https://arxiv.org/abs/2506.21470). It includes battery parameters, PV and wind profiles, demand data, price scenarios, and Python code for the case studies.
+
+## RobustContextualSE ([GitHub](https://github.com/groupoasys/RobustContextualSE))
+
+This repository contains data sets for the research titled [*Robust Contextual State Estimation with Limited Measurement Data*](https://arxiv.org/abs/2507.08767), including voltage and measurement data for the 33-bus and 39-bus systems under various variability conditions.
+
 ## BeyondNeuralFog ([GitHub](https://github.com/groupoasys/BeyondNeuralFog))
 
 This repository provides datasets for the research titled [*Beyond the Neural Fog: Interpretable Learning for AC Optimal Power Flow*](https://doi.org/10.7799/1827404). It includes MATPOWER files for IEEE power systems (14-bus, 30-bus, 57-bus, and 118-bus) and datasets sourced from the OPFLearnData project. The data enables reproducibility and further research in AC optimal power flow.

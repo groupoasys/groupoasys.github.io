@@ -7,15 +7,20 @@ permalink: /publications/
 
 ## Working papers
 
+-   Y. Rychener, A. Esteban-Perez, J.M. Morales, D. Kuhn, "Wasserstein Distributionally Robust Optimization with Heterogeneous Data Sources" ([preprint](https://arxiv.org/abs/2407.13582))
+-   E. Ruiz Irusta, J.M. Morales, "Distributionally Fair Peer-to-Peer Electricity Trading" ([preprint](https://arxiv.org/abs/2501.09713))
+-   E. Carrizosa, M. Fischetti, R. Haaker, J.M. Morales, "Counterfactual optimization for fault prevention in complex wind energy systems" ([preprint](https://arxiv.org/abs/2507.08849))
+- S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" ([preprint](https://arxiv.org/abs/2507.16496))
+- J. G. De la Varga, J. M. Morales, S. Pineda, "Robust Contextual State Estimation with Limited Measurement Data" ([preprint](https://arxiv.org/abs/2507.08767))
 -   J. M. Morales, "Linear and Second-order-cone Valid Inequalities for Problems with Storage" ([preprint](https://arxiv.org/pdf/2506.21470))
 -   J. Tao, R. Li, S. Pineda, "Unit Commitment with Cost-Oriented Temporal Resolution" ([preprint](https://arxiv.org/abs/2506.02707)) 
 -   M. Aguilar-Moreno, S. Pineda, J.M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem" ([preprint](https://arxiv.org/abs/2502.10333))
 -   E. Prat, R. M. Lusby, J.M. Morales, S. Pineda, P. Pinson , "How long is long enough? Finite-horizon approximation of energy storage scheduling problems" ([preprint](https://arxiv.org/abs/2411.17463))
--   R. Li, H. Zhang, M. Sun, C. Wan, S. Pineda, G. Kariniotakis, T. Fei, W. Xu, "Decision-Focused Learning for Future Power System Decision-Making under Uncertainty" ([preprint](https://arxiv.org/abs/2401.03680))
 -   A. Elías, R. Jiménez, A. M. Paganoni and L. Sangalli, A depth for censured functional data. (working paper)
 
 ## 2025
 
+-   R. Li, H. Zhang, M. Sun, C. Wan, S. Pineda, G. Kariniotakis, T. Fei, W. Xu, "Decision-Focused Learning for Future Power System Decision-Making under Uncertainty". IEEE Transactions on Power Systems, 2025 ([published](https://ieeexplore.ieee.org/document/11122623), [preprint](https://arxiv.org/abs/2401.03680))
 -   A. Jiménez-Cordero, S. Pineda, J.M. Morales, An enhanced heuristic framework for solving the Rank Pricing Problem. Expert Systems with Applications, Volume 276, 127122, 2025 ([published](https://www.sciencedirect.com/science/article/pii/S0957417425007444?dgcid=coauthor), [preprint](https://arxiv.org/abs/2405.15702))
 -   S. Pineda, J. Pérez-Ruiz, J.M. Morales, Beyond the Neural Fog: Interpretable Learning for AC Optimal Power Flow.IEEE Transactions on Power Systems ([published](https://ieeexplore.ieee.org/document/10607934), [preprint](https://arxiv.org/pdf/2408.05228))
 -   Á. Porras, Line Roald, J.M. Morales and S. Pineda (2025), Unifying Chance-Constrained and Robust Optimal Power Flow for Resilient Network Operations. IEEE Transactions on Control of Network Systems, 12 (1): 1052:1061. ([published](https://ieeexplore.ieee.org/document/10607934), [preprint](https://arxiv.org/abs/2303.05412))
