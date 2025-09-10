@@ -22,7 +22,7 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 # NEWS
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="/news/2025_iratxe.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <img src="/id/iratxe.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>September 2025 - OASYS is pleased to welcome Iratxe Gil, who has joined the group as a Master Student. Welcome to the team, Iratxe!</p>
 </div>
 
