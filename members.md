@@ -13,6 +13,7 @@ permalink: /team/
 | ![Antonio Elías Fernández](/id/antonio.jpg){: style="width:150px;"} | **Name:** Antonio Elías Fernández<br>**Position:** Assistant Professor<br>**Email:** [aelias@uma.es](mailto:aelias@uma.es)<br>**CV:** [Download CV](cv/antonio.pdf) |
 | ![José Martín Gómez de la Varga](/id/jose.jpg){: style="width:150px;"} | **Name:** José Martín Gómez de la Varga<br>**Position:** PhD Student<br>**Email:** [josegv@uma.es](mailto:josegv@uma.es)<br>**CV:** [Download CV](cv/jose.pdf) |
 | ![Ignacio Repiso](/id/nacho.jpg){: style="width:150px;"} | **Name:** Ignacio Repiso<br>**Position:** PhD Student<br>**Email:** [irepiso@uma.es](mailto:irepiso@uma.es)<br>**CV:** [Download CV](cv/nacho.pdf) |
+| ![Iratxe Gil](/id/iratxe.jpg){: style="width:150px;"} | **Name:** Iratxe Gil<br>**Position:** Master Student<br>**Email:** [igilvivanco@gmail.com](mailto:igilvivanco@gmail.com)<br> |
 
 # PAST MEMBERS 
 

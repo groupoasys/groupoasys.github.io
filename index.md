@@ -22,6 +22,11 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 # NEWS
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2025_iratxe.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>September 2025 - OASYS is pleased to welcome Iratxe Gil, who has joined the group as a Master Student. Welcome to the team, Iratxe!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2025_poc.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>July 2025 - OASYS has been awarded a Proof of Concept (PoC) Grant from the European Research Council (ERC) for the project “e-Hawk: Electricity-market Hawkeye”. The project will develop a tool to automatically detect unusual supply-side distortions in electricity markets, building on results from our previous ERC project and advancing the practical impact of our research.</p>
 </div>
