@@ -27,6 +27,11 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2025_muyinteresante.png" alt="Muy Interesante Article" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>August 2025 - We are proud to announce the publication of a divulgative article in <a href="https://www.muyinteresante.com/fundacion/categoria-sociedad-y-economia/energia-renovables-baterias-cronologia-red.html?_thumbnail_id=597855" target="_blank">Muy Interesante</a> about the research carried out by the OASYS group. The article highlights our work on renewable energy, batteries, and the evolution of power grids. Check it out to learn more about our impact!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2025_poc.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>July 2025 - OASYS has been awarded a Proof of Concept (PoC) Grant from the European Research Council (ERC) for the project “e-Hawk: Electricity-market Hawkeye”. The project will develop a tool to automatically detect unusual supply-side distortions in electricity markets, building on results from our previous ERC project and advancing the practical impact of our research.</p>
 </div>
