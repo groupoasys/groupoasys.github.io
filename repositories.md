@@ -10,6 +10,10 @@ This page lists all the repositories where the OASYS group shares data and resul
 
 <!-- Add the list of repositories below -->
 
+## IPvsSP4OPF ([GitHub](https://github.com/groupoasys/IPvsSP4OPF))
+
+This repository provides MATPOWER test systems for the research titled *Interior-Point vs. Spatial Branching Approaches for Solving the AC Optimal Power Flow Problem*. It includes standard IEEE test systems (14, 39, 57, 118-bus) and their modified versions designed to introduce additional local minima and enhance non-convex behavior.
+
 ## SweetSpotBT ([GitHub](https://github.com/groupoasys/SweetSpotBT))
 
 This repository contains data and files for the work *The Sweet Spot of Bound Tightening for Topology Optimization*, including the IEEE-118 test system data, demand profiles, and the initial large enough constants used in the study.
