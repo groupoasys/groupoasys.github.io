@@ -29,7 +29,7 @@ permalink: /projects/
 ## DYCON  - Data-driven Optimization Under a Dynamic Context
 
 -   Summary: The last decades of human progress have witnessed a revolution in the development and deployment of information and communication technologies. This revolution has led to, among other things, an explosion in the amount of information, in the form of data, observations and measurements, about physical and social processes and systems. The exponential growth of the amount of data available has brought about new opportunities in the field of Optimization-based Decision Making. Of all of them, in this particular project, the research team explore the possibility of using this data for two different, but closely linked, purposes, namely: the resolution of large and complex optimization problems, which, until now, have proved extremely difficult to solve; and the mathematical formulation of optimization models that allow making decisions with a higher level of confidence about their future outcome.
--   Dates: 01/09/2021 - 31/08/2024
+-   Dates: 01/09/2021 - 28/02/2025
 -   Funding Entity: Spanish Ministry of Innovation & Science
 
 ## QUALIFICA Andalusia Regional Government Excellence Programme: Mathware for the operation and planning of intelligent and sustainable energy systems
