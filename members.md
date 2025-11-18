@@ -18,6 +18,7 @@ permalink: /team/
 # PAST MEMBERS 
 
 |-------|---------|
+| ![Marina Aguilar Moreno](/id/marina.jpg){: style="width:150px;"} | **Name:** Marina Aguilar Moreno<br>**Position at OASYS Group:** Postdoctoral Researcher<br>**Dates:** November 2023 - January 2025 |
 | ![Concepción Domínguez Sánchez](/id/conchi.jpg){: style="width:150px;"} | **Name:** Concepción Domínguez Sánchez<br>**Position at OASYS Group:** Postdoctoral Researcher<br>**Dates:** November 2021 - July 2024 |
 | ![Adrián Esteban Pérez](/id/adrian.jpg){: style="width:150px;"} | **Name:** Adrián Esteban Pérez<br>**Position at OASYS Group:** PhD Student and Postdoctoral Researcher<br>**Dates:** February 2018 - July 2023 |
 | ![Álvaro Porras Cabrera](/id/alvaro.jpg){: style="width:150px;"} | **Name:** Álvaro Porras Cabrera<br>**Position at OASYS Group:** MSc and PhD Student<br>**Dates:** September 2018 - October 2023 |
