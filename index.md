@@ -30,8 +30,8 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
     <br>
     <span style="font-size: 0.98em;">Rethinking Scientific Production: The Slow Science Movement advocates for a more thoughtful, sustainable approach to research that values quality over quantity and depth over speed.</span>
     <br>
-    <a href="https://slow-science.org/manifesto/" target="_blank" style="margin-right: 10px;">Read the Manifesto</a>
-    <a href="https://slow-science.org/" target="_blank">About the Movement</a>
+    <a href="https://www.slow-science.com/pages/manifesto.html" target="_blank" style="margin-right: 10px;">Read the Manifesto</a>
+    <a href="https://www.slow-science.com/" target="_blank">About the Movement</a>
   </div>
 </div>
 
