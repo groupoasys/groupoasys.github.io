@@ -40,6 +40,11 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 # NEWS
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/id/juan.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>April 2026 - OASYS is pleased to welcome Juan Robles, who has joined the group as a PhD student. Welcome to the team, Juan!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/id/zehang.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>February 2026 - OASYS is pleased to welcome Zehang Li as a postdoctoral researcher joining the E-Hawk ERC Proof of Concept project. Welcome to the team, Zehang!</p>
 </div>

@@ -14,6 +14,7 @@ permalink: /team/
 | ![Zehang Li](/id/zehang.jpg){: style="width:150px;"} | **Name:** Zehang Li<br>**Position:** Postdoctoral Researcher<br>**Email:** [zehangli@uma.es](mailto:zehangli@uma.es) |
 | ![José Martín Gómez de la Varga](/id/jose.jpg){: style="width:150px;"} | **Name:** José Martín Gómez de la Varga<br>**Position:** PhD Student<br>**Email:** [josegv@uma.es](mailto:josegv@uma.es)<br>**CV:** [Download CV](cv/jose.pdf) |
 | ![Ignacio Repiso](/id/nacho.jpg){: style="width:150px;"} | **Name:** Ignacio Repiso<br>**Position:** PhD Student<br>**Email:** [irepiso@uma.es](mailto:irepiso@uma.es)<br>**CV:** [Download CV](cv/nacho.pdf) |
+| ![Juan Robles](/id/juan.jpg){: style="width:150px;"} | **Name:** Juan Robles<br>**Position:** PhD Student<br>**Email:** [juanroblesrios7@uma.es](mailto:juanroblesrios7@uma.es)<br> |
 | ![Iratxe Gil](/id/iratxe.jpg){: style="width:150px;"} | **Name:** Iratxe Gil<br>**Position:** Master Student<br>**Email:** [igilvivanco@gmail.com](mailto:igilvivanco@gmail.com)<br> |
 
 # PAST MEMBERS 
