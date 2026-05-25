@@ -7,7 +7,8 @@ permalink: /publications/
 
 ## Working papers
 
-- I. Repiso, S. Pineda, J. M. Morales, "Interior-Point vs. Spatial Branching Approaches for Solving the AC Optimal Power Flow Problem" ([preprint](https://arxiv.org/abs/2510.15753))
+- J. G. De la Varga, S. Pineda, J. M. Morales, A. Stratigakos, "End-to-End Pseudo-Measurement Learning for State Estimation under Limited Observability" ([preprint](https://arxiv.org/abs/2605.23525))
+- I. Repiso, S. Pineda, J. M. Morales, "Data-Boosted Optimization for AC Optimal Power Flow: Interior-Point and Spatial Branching Methods" ([preprint](https://arxiv.org/abs/2510.15753))
 - Y. Rychener, A. Esteban-Perez, J.M. Morales, D. Kuhn, "Wasserstein Distributionally Robust Optimization with Heterogeneous Data Sources" ([preprint](https://arxiv.org/abs/2407.13582))
 - E. Ruiz Irusta, J.M. Morales, "Distributionally Fair Peer-to-Peer Electricity Trading" ([preprint](https://arxiv.org/abs/2501.09713))
 - E. Carrizosa, M. Fischetti, R. Haaker, J.M. Morales, "Counterfactual optimization for fault prevention in complex wind energy systems" ([preprint](https://arxiv.org/abs/2507.08849))
