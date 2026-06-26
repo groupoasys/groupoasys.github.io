@@ -50,8 +50,18 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2026_ie_rsme.jpg" alt="IE-RSME Workshop" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>April 2026 - Salvador Pineda participated in the <strong>IE-RSME Workshop Series on Applied Mathematics</strong>. It was a great event with a lot of interesting discussions!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/id/zehang.jpg" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
   <p>February 2026 - OASYS is pleased to welcome Zehang Li as a postdoctoral researcher joining the E-Hawk ERC Proof of Concept project. Welcome to the team, Zehang!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2026_full_salva.jpg" alt="Salva Full Professor" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>December 2025 - We are thrilled to announce that Salvador Pineda has been promoted to <strong>Full Professor</strong>. Hurra! Well deserved, Salva!</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
