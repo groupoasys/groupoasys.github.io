@@ -40,8 +40,13 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 # NEWS
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="/id/juan.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
-  <p>April 2026 - OASYS is pleased to welcome Juan Robles, who has joined the group as a PhD student. Welcome to the team, Juan!</p>
+  <img src="/news/2026_pscc.jpg" alt="PSCC 2026" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>June 2026 - Three members of OASYS attended the <strong>Power Systems Computation Conference (PSCC 2026)</strong> in Limassol, Cyprus. Here is a picture with a Roman mosaic!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/id/carlos.png" alt="News Image" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>May 2026 - OASYS is pleased to welcome Carlos Gamboa, who has joined the group as a postdoctoral researcher. Welcome to the team, Carlos!</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">

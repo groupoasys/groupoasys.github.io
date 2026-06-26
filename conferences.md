@@ -6,6 +6,10 @@ permalink: /conferences/
 
 # CONFERENCES
 
+## 2026
+
+- S. Pineda, J. M. Morales, “The Sweet Spot of Bound Tightening for Topology Optimization” PSCC 2026, Limassol, Cyprus, June 8-12, 2026 ([presentation](https://drive.google.com/file/d/1ETqEwKhCb1rfWenDPMAX2bGJQ0aw4vYk/view?usp=sharing))
+
 ## 2025
 
 - A. Jiménez-Cordero, S. Pineda, J. M. Morales González, "Solving the Rank Pricing Problem using a heuristic approach", SEIO 2025, Lleida, Spain, June 10-13, 2025 ([presentation](https://drive.google.com/file/d/1uKLO0rESl8drsD_6OsXuE3qF6FiIGMUn/view?usp=drive_link))
