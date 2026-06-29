@@ -9,6 +9,12 @@ permalink: /media/
     <img src="/oasys/inthemedia.png" alt="In the media">
 </div>
 
+-   04/05/26 El Periódico de la Energía. Diseñan una aplicación pionera para vigilar el mercado eléctrico ([link](https://elperiodicodelaenergia.com/disenan-una-aplicacion-pionera-para-vigilar-el-mercado-electrico/))
+-   03/05/26 Universidad de Málaga (UMA). Investigadores diseñan una aplicación pionera para vigilar el mercado eléctrico ([link](https://www.uma.es/sala-de-prensa/noticias/investigadores-disenan-una-aplicacion-pionera-para-vigilar-el-mercado-electrico/))
+-   03/05/26 EFE. Investigadores de la UMA diseñan una aplicación pionera para vigilar el mercado eléctrico ([link](https://efe.com/andalucia/2026-05-03/investigadores-de-la-uma-disenan-una-aplicacion-pionera-para-vigilar-el-mercado-electrico/))
+-   03/05/26 La Razón. Investigadores de la UMA diseñan una aplicación pionera para vigilar el mercado eléctrico ([link](https://www.larazon.es/andalucia/malaga/investigadores-uma-disenan-aplicacion-pionera-vigilar-mercado-electrico_2026050369f6fe897b1d574ac665d84a.html#goog_rewarded))
+-   03/05/26 Investing.com. Diseñan una aplicación pionera para vigilar el mercado eléctrico ([link](https://es.investing.com/news/stock-market-news/disenan-una-aplicacion-pionera-para-vigilar-el-mercado-electrico-3635898))
+-   03/05/26 El Debate. Diseñan una aplicación pionera para vigilar el mercado eléctrico y controlar que no se alteren «artificialmente» los precios ([link](https://www.eldebate.com/economia/20260503/disenan-aplicacion-pionera-vigilar-mercado-electrico-controlar-no-alteren-artificialmente-precios_413497.html))
 -   18/04/24 Diario Sur. Report on FGUMA awards ([link](https://www.diariosur.es/universidad/investigacion-mejores-manos-20240417183011-nt.html?ref=https%3A%2F%2Fwww.diariosur.es%2Funiversidad%2Finvestigacion-mejores-manos-20240417183011-nt.html))
 -   17/04/24 Fundación FGUMA. Adrian Esteban wins the ‘Margarita Salas Falgueras’ award ([link](https://www.uma.es/sala-de-prensa/noticias/los-xiii-premios-de-investigacion-de-la-universidad-y-la-fguma-reconocen-el-talento-de-seis-jovenes-cientificos/))
 -   26/01/24 ABC XL Semanal. Interview with Salvador and Juan Miguel "BBVA Young Talent". ([link](https://www.abc.es/xlsemanal/personajes/talento-joven-bbva-proyecto-matematicas-energias-renovables.html), [pdf](https://drive.google.com/uc?export=download&id=1C5E2BtEoEAr5psuWHcsLAhSd1JnG_QO0))

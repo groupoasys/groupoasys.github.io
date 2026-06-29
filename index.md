@@ -40,7 +40,7 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 # NEWS
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="/news/2026_mines.jpg" alt="PSCC 2026" style="width: 225px; height: auto; margin-right: 15px;">
+  <img src="/news/2026_mines.jpeg" alt="MINES 2026" style="width: 225px; height: auto; margin-right: 15px;">
   <p>June 2026 - Juanmi was invited to give a course in the Summer School on Sustainable Energy Systems and Markets & Optimization Workshop - Mines Paris</p>
 </div>
 
