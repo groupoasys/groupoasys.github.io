@@ -14,17 +14,21 @@ permalink: /publications/
 - Y. Rychener, A. Esteban-Perez, J.M. Morales, D. Kuhn, "Wasserstein Distributionally Robust Optimization with Heterogeneous Data Sources" ([preprint](https://arxiv.org/abs/2407.13582))
 - E. Ruiz Irusta, J.M. Morales, "Distributionally Fair Peer-to-Peer Electricity Trading" ([preprint](https://arxiv.org/abs/2501.09713))
 - E. Carrizosa, M. Fischetti, R. Haaker, J.M. Morales, "Counterfactual optimization for fault prevention in complex wind energy systems" ([preprint](https://arxiv.org/abs/2507.08849))
-- S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" ([preprint](https://arxiv.org/abs/2507.16496))
 - J. G. De la Varga, J. M. Morales, S. Pineda, "Robust Contextual State Estimation with Limited Measurement Data" ([preprint](https://arxiv.org/abs/2507.08767))
 -   J. M. Morales, "Linear and Second-order-cone Valid Inequalities for Problems with Storage" ([preprint](https://arxiv.org/pdf/2506.21470))
 -   J. Tao, R. Li, S. Pineda, "Unit Commitment with Cost-Oriented Temporal Resolution" ([preprint](https://arxiv.org/abs/2506.02707)) 
 -   M. Aguilar-Moreno, S. Pineda, J.M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem" ([preprint](https://arxiv.org/abs/2502.10333))
 -   E. Prat, R. M. Lusby, J.M. Morales, S. Pineda, P. Pinson , "How long is long enough? Finite-horizon approximation of energy storage scheduling problems" ([preprint](https://arxiv.org/abs/2411.17463))
--   A. Elías, R. Jiménez, A. M. Paganoni and L. Sangalli, A depth for censured functional data. (working paper)
+
+## 2026
+
+-   S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" accepted in Electric Power Systems Research ([preprint](https://arxiv.org/abs/2507.16496))
+-   S. Nagy, T. Mrkvicka, A. Elías, "Which depth to use to construct functional boxplots?" accepted in Statistical Science ([preprint](https://arxiv.org/pdf/2409.18603))
+-   R. Li, H. Zhang, M. Sun, C. Wan, S. Pineda, G. Kariniotakis, T. Fei, W. Xu, "Decision-Focused Learning for Future Power System Decision-Making under Uncertainty". IEEE Transactions on Power Systems 41 (1): 307-323, 2026 ([published](https://ieeexplore.ieee.org/document/11122623), [preprint](https://arxiv.org/abs/2401.03680))
 
 ## 2025
 
--   R. Li, H. Zhang, M. Sun, C. Wan, S. Pineda, G. Kariniotakis, T. Fei, W. Xu, "Decision-Focused Learning for Future Power System Decision-Making under Uncertainty". IEEE Transactions on Power Systems, 2025 ([published](https://ieeexplore.ieee.org/document/11122623), [preprint](https://arxiv.org/abs/2401.03680))
+-   A. Elías, S. Nagy "Statistical properties of partially observed integrated functional depths", TEST 34 (1): 125-150, 2025 ([published](https://link.springer.com/article/10.1007/s11749-024-00954-6), [preprint](https://riuma.uma.es/entities/publication/1cfd4258-fa39-4798-845c-d6b0f9eadbe4))
 -   A. Jiménez-Cordero, S. Pineda, J.M. Morales, An enhanced heuristic framework for solving the Rank Pricing Problem. Expert Systems with Applications, Volume 276, 127122, 2025 ([published](https://www.sciencedirect.com/science/article/pii/S0957417425007444?dgcid=coauthor), [preprint](https://arxiv.org/abs/2405.15702))
 -   S. Pineda, J. Pérez-Ruiz, J.M. Morales, Beyond the Neural Fog: Interpretable Learning for AC Optimal Power Flow.IEEE Transactions on Power Systems, 40 (6): 4912-4921, 2025 ([published](https://ieeexplore.ieee.org/document/10607934), [preprint](https://arxiv.org/pdf/2408.05228))
 -   Á. Porras, Line Roald, J.M. Morales and S. Pineda (2025), Unifying Chance-Constrained and Robust Optimal Power Flow for Resilient Network Operations. IEEE Transactions on Control of Network Systems, 12 (1): 1052:1061. ([published](https://ieeexplore.ieee.org/document/10607934), [preprint](https://arxiv.org/abs/2303.05412))
@@ -42,7 +46,7 @@ permalink: /publications/
 
 ## 2023
 
--    Á. Porras, C. Domínguez, J.M. Morales and S. Pineda (2023). Tight and compact sample average approximation for joint chance constrained optimal power flow. INFORMS Journal On Computing, 35(6): 1454 - 1469. ([published](https://pubsonline.informs.org/doi/epdf/10.1287/ijoc.2022.0302), [preprint](https://arxiv.org/abs/2205.03370))
+-   Á. Porras, C. Domínguez, J.M. Morales and S. Pineda (2023). Tight and compact sample average approximation for joint chance constrained optimal power flow. INFORMS Journal On Computing, 35(6): 1454 - 1469. ([published](https://pubsonline.informs.org/doi/epdf/10.1287/ijoc.2022.0302), [preprint](https://arxiv.org/abs/2205.03370))
 -   M. Á. Muñoz, J. Kazempour and P. Pinson (2023). Online decision making for trading wind energy Computational Management Science, 20(1)33 doi: 10.1007/s10287-023-00462-2. ([published](https://link.springer.com/article/10.1007/s10287-023-00462-2), [preprint](https://arxiv.org/abs/2209.02009))
 -   S. Pineda and J.M. Morales (2023). Renovables y baterías: un romance del siglo XXI. BEIO Boletín Informativo de la SEIO (Sociedad de Estadística e Investigación Operativa) The Spanish Society of Statistics and Operations Research Gazette, 29(2), July, 2023. ([published](https://www.seio.es/beio/renovables-y-baterias-un-romance-del-siglo-xxi/))
 -   A. Elías, J.M. Morales and S. Pineda (2023). A high dimensional functional time series approach to evolution outlier detection for grouped smart meters.  Quality Engineering , 35(3): 371 - 387. ([published](https://www.tandfonline.com/doi/full/10.1080/08982112.2022.2135009), [preprint](https://riuma.uma.es/xmlui/handle/10630/25690))
