@@ -7,6 +7,8 @@ permalink: /social/
 # SOCIAL
 
 <div class="album" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+    <img src="/social/social34.jpg" alt="Social 34" style="width: 100%; aspect-ratio: 1 / 1; height: 100%; object-fit: cover;">
+    <img src="/social/social33.jpg" alt="Social 33" style="width: 100%; aspect-ratio: 1 / 1; height: 100%; object-fit: cover;">
     <img src="/social/social32.jpg" alt="Social 32" style="width: 100%; aspect-ratio: 1 / 1; height: 100%; object-fit: cover;">
     <img src="/social/social31.jpg" alt="Social 31" style="width: 100%; aspect-ratio: 1 / 1; height: 100%; object-fit: cover;">
     <img src="/social/social30.jpg" alt="Social 30" style="width: 100%; aspect-ratio: 1 / 1; height: 100%; object-fit: cover;">

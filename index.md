@@ -6,7 +6,7 @@ permalink: /
 
 <div style="text-align: center; display: flex; justify-content: center; gap: 20px;">
   <img src="/oasys/oasys_large.png" alt="OASYS Logo" style="max-height: 100%; max-width: 45%; object-fit: contain;">
-  <img src="/oasys/family1.jpg" alt="OASYS Logo" style="width: 45%;">
+  <img src="/oasys/family2.jpg" alt="OASYS Logo" style="width: 45%;">
 </div>
 
 
@@ -38,6 +38,16 @@ The OASYS Research Group started in January 2018 at the University of Málaga. O
 ---
 
 # NEWS
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2026_dtu.jpg" alt="DTU ELMA 2026" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>September 2026 - OASYS had the pleasure to host the DTU ELMA research group on September 10-11. It was a wonderful opportunity for interesting discussions and collaboration!</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="/news/2026_seio.jpeg" alt="SEIO Conference 2026" style="width: 225px; height: auto; margin-right: 15px;">
+  <p>September 2026 - Three members of OASYS attended the SEIO conference in Santiago de Compostela. Great event with valuable insights from the operations research community!</p>
+</div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="/news/2026_mines.jpeg" alt="MINES 2026" style="width: 225px; height: auto; margin-right: 15px;">
