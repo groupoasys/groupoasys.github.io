@@ -7,7 +7,56 @@ permalink: /workshops/
 # OASYS WORKSHOPS
 
 The OASYS Workshops are thematic events that bring together multiple researchers—often including several international guests—for a series of talks and discussions around a shared topic. Designed to foster deeper scientific exchange, these workshops create a collaborative environment where participants can explore new ideas, receive feedback, and initiate joint research projects. By encouraging dialogue beyond institutional and national boundaries, the workshops play a key role in expanding the group’s international network and research impact.
+## The joint workshop of DTU and UMA, 10th of September, 2026. ([program](Program_DTU_UMA_FINAL.pdf))
 
+The joint workshop of DTU and UMA brought together researchers from the Technical University of Denmark (DTU) and the University of Málaga (UMA) for an intensive day of presentations and collaborative discussions. Held at the Ada Byron research building in Málaga, the workshop featured presentations spanning multiple research areas including market design, data privacy, energy storage, market monitoring, and machine learning applications in power systems. The event concluded with group brainstorming sessions exploring potential topics for future collaboration and joint research initiatives.
+
+**Program Schedule:**
+
+**9:00-9:45 — Welcome and Group Presentations**
+- Juan Miguel Morales and Salvador Pineda: Welcome (5 minutes)
+- EMA group (DTU): Group presentation (20 minutes)
+- UMA group: Group presentation (20 minutes)
+
+**9:45-10:15 — Session 1: Market and Contract Design**
+- Shobhit Singhal (DTU): *Truthful Stochastic Electricity Market Design* (5 minutes)
+- Torine Reed Herstad (DTU): *Improved Sequential Market Clearing via Stochastic Transmission Capacity Allocation* (5 minutes)
+- Marco Saretta (DTU): *When do Renewable PPAs Benefit Risk-Aware Parties? A Nash Bargaining Approach* (5 minutes)
+- Álvaro Porras (UMA): *Accelerating Production Cost Models using AI* (5 minutes)
+- Q&A (10 minutes)
+
+**10:30-11:00 — Session 2: Data, Privacy, and Information Sharing**
+- Lukas Stippel (DTU): *Data Unlocked: Privacy Preservation, Public Sharing, and Added Value Creation* (5 minutes)
+- Gloria Tintoré Vidal (DTU): *Data-Unlocked Project: Privacy-preserving in data sharing for congestion forecasting* (5 minutes)
+- Alessia Ortile (DTU): *Privacy-Aware FCR-D Bidding with Electric Vehicles* (5 minutes)
+- Iratxe Gil Vivanco (UMA): *Optimization with Multiple Data Sources: a Distributionally Robust Approach* (5 minutes)
+- Q&A (10 minutes)
+
+**11:35-12:00 — Session 3: Reserves, Balancing, and Storage**
+- Valdemar Søgaard (DTU): *Multi-area reserve dimensioning in the Nordic power system: EU compliant and dynamic reserve modelling* (5 minutes)
+- Asmus Winther Eriksen (DTU): *Sharing the Gains of Aggregation: Cooperative Imbalance Cost Allocation* (5 minutes)
+- Francisco Olivera (UMA): *Long Duration Energy Storage based Solutions for Distribution Networks* (5 minutes)
+- Q&A (10 minutes)
+
+**12:00-12:30 — Session 4: Market Monitoring, State Estimation, and Security**
+- Rasmus Thorgaard (DTU): *Detecting Market Abuse: Cross-Border Wash Trading* (5 minutes)
+- Zehang Li (UMA): *e-Hawk: A Surveillance Tool to Detect Distortions in the Supply-Side of Electricity Markets* (5 minutes)
+- Tomas Lubiana Herscovici (DTU): *Cyber-Physical Security* (5 minutes)
+- José Gómez de la Varga (UMA): *State Estimation under Limited Observability: When the Most Accurate Prediction is not the Best One* (5 minutes)
+- Q&A (10 minutes)
+
+**14:15-14:45 — Session 5: Learning, Bidding, and Trading**
+- Ignacio Repiso (UMA): *Learning Feasibility into the SOCP Relaxation of ACOPF* (5 minutes)
+- Yannick Heiser (DTU): *Trading Wind Power and Hydrogen* (5 minutes)
+- Sofie Davidsen (DTU): *Rebound-Aware Bidding for Electric Vehicle Aggregators in the aFRR Energy Activation Market* (5 minutes)
+- Carlos Gamboa (UMA): *Context-Aware Wasserstein DRO: Stability and Sensitivity Analysis* (5 minutes)
+- Q&A (10 minutes)
+
+**15:00-16:30 — Group Brainstorming**
+- Learning and AI for Operations
+- Data, Privacy, and Information Sharing
+- Market Monitoring, Integrity and Security
+- Market Design, Flexibility, and System Adequacy
 ## FlexAnalytics Symposium on Advanced Techniques for Power System Operations, 21st - 22nd of September, 2023. ([program](https://drive.google.com/file/d/1DamFfK1fOXR4AlqvQ-cRlXx6c8-srbfx/view?usp=sharing))
 
 The FlexAnalytics Symposium on Advanced Techniques for Power System Operations brought together experts to discuss cutting-edge methodologies and tools for optimizing power system operations. The event featured talks and discussions on advanced optimization techniques, data-driven approaches, and their applications in modern power systems. This symposium provided a platform for collaboration and knowledge exchange, fostering innovation in the field of power system operations. Below, we include the list of speakers and talks.
