@@ -57,6 +57,7 @@ The joint workshop of DTU and UMA brought together researchers from the Technica
 - Data, Privacy, and Information Sharing
 - Market Monitoring, Integrity and Security
 - Market Design, Flexibility, and System Adequacy
+
 ## FlexAnalytics Symposium on Advanced Techniques for Power System Operations, 21st - 22nd of September, 2023. ([program](https://drive.google.com/file/d/1DamFfK1fOXR4AlqvQ-cRlXx6c8-srbfx/view?usp=sharing))
 
 The FlexAnalytics Symposium on Advanced Techniques for Power System Operations brought together experts to discuss cutting-edge methodologies and tools for optimizing power system operations. The event featured talks and discussions on advanced optimization techniques, data-driven approaches, and their applications in modern power systems. This symposium provided a platform for collaboration and knowledge exchange, fostering innovation in the field of power system operations. Below, we include the list of speakers and talks.
