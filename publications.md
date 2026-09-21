@@ -20,9 +20,10 @@ permalink: /publications/
 -   M. Aguilar-Moreno, S. Pineda, J.M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem" ([preprint](https://arxiv.org/abs/2502.10333))
 -   E. Prat, R. M. Lusby, J.M. Morales, S. Pineda, P. Pinson , "How long is long enough? Finite-horizon approximation of energy storage scheduling problems" ([preprint](https://arxiv.org/abs/2411.17463))
 
-## 2026
+## 2027
+-   S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" in Electric Power Systems Research, 262 ([published](https://www.sciencedirect.com/science/article/pii/S037877962600831X), [preprint](https://arxiv.org/abs/2507.16496))
 
--   S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" accepted in Electric Power Systems Research ([preprint](https://arxiv.org/abs/2507.16496))
+## 2026
 -   S. Nagy, T. Mrkvicka, A. Elías, "Which depth to use to construct functional boxplots?" accepted in Statistical Science ([preprint](https://arxiv.org/pdf/2409.18603))
 -   R. Li, H. Zhang, M. Sun, C. Wan, S. Pineda, G. Kariniotakis, T. Fei, W. Xu, "Decision-Focused Learning for Future Power System Decision-Making under Uncertainty". IEEE Transactions on Power Systems 41 (1): 307-323, 2026 ([published](https://ieeexplore.ieee.org/document/11122623), [preprint](https://arxiv.org/abs/2401.03680))
 
@@ -33,12 +34,12 @@ permalink: /publications/
 -   S. Pineda, J. Pérez-Ruiz, J.M. Morales, Beyond the Neural Fog: Interpretable Learning for AC Optimal Power Flow.IEEE Transactions on Power Systems, 40 (6): 4912-4921, 2025 ([published](https://ieeexplore.ieee.org/document/10607934), [preprint](https://arxiv.org/pdf/2408.05228))
 -   Á. Porras, Line Roald, J.M. Morales and S. Pineda (2025), Unifying Chance-Constrained and Robust Optimal Power Flow for Resilient Network Operations. IEEE Transactions on Control of Network Systems, 12 (1): 1052:1061. ([published](https://ieeexplore.ieee.org/document/10607934), [preprint](https://arxiv.org/abs/2303.05412))
 -   J.G. De la Varga, S. Pineda, J.M. Morales, Á. Porras (2025), Learning-based state estimation in distribution systems with limited real-time measurements. Electric Power Systems Research, Volume 241, 111268 ([published](https://www.sciencedirect.com/science/article/pii/S0378779624011544), [preprint](https://arxiv.org/abs/2307.16822))
+-   R. Mieth, J.M. Morales and H.V. Poor (2024), Data valuation from data-driven optimization. IEEE Transactions on Control of Network Systems, 12(1), March 2025 ([published](https://ieeexplore.ieee.org/document/10605074), [preprint](https://arxiv.org/abs/2305.01775))
+-   A Stratigakos, S Pineda, J.M. Morales (2025), Decision-focused linear pooling for probabilistic forecast combination. International Journal of Forecasting, Volume 41 (3): 1112-1125. ([published](https://www.sciencedirect.com/science/article/pii/S0169207024001213), [preprint](https://hal.science/hal-04593114/document))
 
 ## 2024
 
--   A Stratigakos, S Pineda, J.M. Morales (2024), Decision-focused linear pooling for probabilistic forecast combination. International Journal of Forecasting. ([published](https://www.sciencedirect.com/science/article/pii/S0169207024001213), [preprint](https://hal.science/hal-04593114/document))
 -   C. Domínguez, R. Gázguez, J.M. Morales and S. Pineda (2024), The Cooperative Maximal Covering Location Problem with ordered partial attractions. Computers & Operations Research, Volume 170, 106782 ([published](https://www.sciencedirect.com/science/article/pii/S0305054824002545?via%3Dihub), [preprint](https://arxiv.org/abs/2305.15169))
--   R. Mieth, J.M. Morales and H.V. Poor (2024), Data valuation from data-driven optimization. IEEE Transactions on Control of Network Systems, 12(1), March 2025 ([published](https://ieeexplore.ieee.org/document/10319106), [preprint](https://arxiv.org/abs/2305.01775))
 -   S. Pineda, J.M. Morales and A. Jiménez-Cordero (2024), Learning-assisted optimization for transmission switching. TOP, 32(3): 489-516 ([published](https://link.springer.com/article/10.1007/s11750-024-00672-0), [preprint](https://arxiv.org/abs/2304.07269))
 -   S. Pineda, J.M. Morales, Á. Porras and C. Domínguez (2024), Tight big-Ms for optimal transmission switching. Electric Power System Research, 234,  110620 ([published](https://www.sciencedirect.com/science/article/pii/S0378779624005066), [preprint](https://arxiv.org/abs/2306.02784))
 -   Z. Li, A. M. Alonso, A. Elías and J.M. Morales (2024). Clustering and forecasting of day-ahead electricity supply curve using a market-based distance. International Journal of Electric Power & Energy Systems, 158. ([published](https://www.sciencedirect.com/science/article/pii/S0142061524001984), [preprint](https://e-archivo.uc3m.es/entities/publication/2d96c73b-e826-4c35-966d-b16f26e23c45))
