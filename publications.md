@@ -9,12 +9,10 @@ permalink: /publications/
 
 - Y. Werner, J. M. Morales, S. Pineda, S. Wogrin, "Towards time-variant scenario reduction for energy system optimization modeling under uncertainty" ([preprint](https://arxiv.org/abs/2606.23072))
 - Y. Werner, J. M. Morales, S. Pineda, L. Roald, S. Wogrin, "Scenario Reduction for the Two-Stage Stochastic Unit Commitment Problem" ([preprint](https://arxiv.org/abs/2512.19614))
-- J. G. De la Varga, S. Pineda, J. M. Morales, A. Stratigakos, "End-to-End Pseudo-Measurement Learning for State Estimation under Limited Observability" ([preprint](https://arxiv.org/abs/2605.23525))
 - I. Repiso, S. Pineda, J. M. Morales, "Data-Boosted Optimization for AC Optimal Power Flow: Interior-Point and Spatial Branching Methods" ([preprint](https://arxiv.org/abs/2510.15753))
 - Y. Rychener, A. Esteban-Perez, J.M. Morales, D. Kuhn, "Wasserstein Distributionally Robust Optimization with Heterogeneous Data Sources" ([preprint](https://arxiv.org/abs/2407.13582))
 - E. Ruiz Irusta, J.M. Morales, "Distributionally Fair Peer-to-Peer Electricity Trading" ([preprint](https://arxiv.org/abs/2501.09713))
 - E. Carrizosa, M. Fischetti, R. Haaker, J.M. Morales, "Counterfactual optimization for fault prevention in complex wind energy systems" ([preprint](https://arxiv.org/abs/2507.08849))
-- J. G. De la Varga, J. M. Morales, S. Pineda, "Robust Contextual State Estimation with Limited Measurement Data" ([preprint](https://arxiv.org/abs/2507.08767))
 -   J. M. Morales, "Linear and Second-order-cone Valid Inequalities for Problems with Storage" ([preprint](https://arxiv.org/pdf/2506.21470))
 -   J. Tao, R. Li, S. Pineda, "Unit Commitment with Cost-Oriented Temporal Resolution" ([preprint](https://arxiv.org/abs/2506.02707)) 
 -   M. Aguilar-Moreno, S. Pineda, J.M. Morales, "A Graph-Based Iterative Strategy for Solving the All-Line Transmission Switching Problem" ([preprint](https://arxiv.org/abs/2502.10333))
@@ -22,8 +20,10 @@ permalink: /publications/
 
 ## 2027
 -   S. Pineda, J. M. Morales, "The Sweet Spot of Bound Tightening for Topology Optimization" in Electric Power Systems Research, 262 ([published](https://www.sciencedirect.com/science/article/pii/S037877962600831X), [preprint](https://arxiv.org/abs/2507.16496))
+-   J. G. De la Varga, S. Pineda, J. M. Morales, A. Stratigakos, "End-to-End Pseudo-Measurement Learning for State Estimation under Limited Observability" in Electric Power Systems Research, vol. 265, pp. 114220, 2027 ([preprint](https://arxiv.org/abs/2605.23525), [published](https://www.sciencedirect.com/science/article/pii/S0378779626015051))
 
 ## 2026
+-   J. G. De la Varga, J. M. Morales, S. Pineda, "Contextual Robust State Estimation in Distribution Systems with Real-Time Unobservability and Scarce Data" in IEEE Open Access Journal of Power and Energy, vol. 13, pp. 788-799, 2026 ([preprint](https://arxiv.org/abs/2507.08767), [published](https://ieeexplore.ieee.org/document/11690594))
 -   S. Nagy, T. Mrkvicka, A. Elías, "Which depth to use to construct functional boxplots?" accepted in Statistical Science ([preprint](https://arxiv.org/pdf/2409.18603))
 -   R. Li, H. Zhang, M. Sun, C. Wan, S. Pineda, G. Kariniotakis, T. Fei, W. Xu, "Decision-Focused Learning for Future Power System Decision-Making under Uncertainty". IEEE Transactions on Power Systems 41 (1): 307-323, 2026 ([published](https://ieeexplore.ieee.org/document/11122623), [preprint](https://arxiv.org/abs/2401.03680))
 
