@@ -7,6 +7,7 @@ permalink: /publications/
 
 ## Working papers
 
+- J. C. Fernández, A. Jiménez-Cordero, J. F. Paris, "A class of Rényi-based concentration metrics for Kolmogorov-Arnold geometry in multilayer perceptrons" ([preprint]([https://arxiv.org/abs/2606.23072](https://www.researchgate.net/publication/416253314_A_Class_of_Renyi-based_Concentration_Metrics_for_Kolmogorov-Arnold_Geometry_in_Multilayer_Perceptrons)))
 - Y. Werner, J. M. Morales, S. Pineda, S. Wogrin, "Towards time-variant scenario reduction for energy system optimization modeling under uncertainty" ([preprint](https://arxiv.org/abs/2606.23072))
 - Y. Werner, J. M. Morales, S. Pineda, L. Roald, S. Wogrin, "Scenario Reduction for the Two-Stage Stochastic Unit Commitment Problem" ([preprint](https://arxiv.org/abs/2512.19614))
 - I. Repiso, S. Pineda, J. M. Morales, "Data-Boosted Optimization for AC Optimal Power Flow: Interior-Point and Spatial Branching Methods" ([preprint](https://arxiv.org/abs/2510.15753))
